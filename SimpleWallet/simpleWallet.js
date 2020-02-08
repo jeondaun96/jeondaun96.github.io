@@ -273,7 +273,7 @@ let ERC20_abi =
 	},
   ];
 
-let friend_contractAddress = '0x635bc8a250202d6f081f70a7fb12033593719a36';
+let friend_contractAddress = '0xe90818715fae9795f006f0667ff6d2b19c68c5a6';
 let friend_abi = [
 	{
 		"constant": false,
